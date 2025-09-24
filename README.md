@@ -69,6 +69,6 @@ terraform destroy -auto-approve
 ```
 
 ### Learn more / say hi
-Find me on the Medium article (repo link): https://github.com/titofonseca/clickup_terraform_factory
+Find me on the Medium article: https://medium.com/@titoamfonseca/clickup-as-a-living-catalog-terraform-as-the-assembly-line-77ec43fadbd5
 
 
