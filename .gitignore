@@ -1,0 +1,22 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+crash.log
+
+# Sensitive vars
+terraform.tfvars
+*.auto.tfvars
+
+# Providers lock (optional: uncomment to include lock in VCS)
+# .terraform.lock.hcl
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+

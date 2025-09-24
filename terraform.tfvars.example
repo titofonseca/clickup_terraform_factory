@@ -1,0 +1,7 @@
+# Example values - copy to terraform.tfvars and adjust
+gcp_project_id    = "my-gcp-project"
+clickup_api_token = "<CLICKUP_API_TOKEN>"
+clickup_space_id  = "<SPACE_ID>"
+clickup_list_id   = "<LIST_ID>"
+
+
